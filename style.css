@@ -1,0 +1,12 @@
+.background {
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url('./dragon.jpg');
+  background-repeat: no-repeat;
+}
+
+.title {
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 60px;
+}
